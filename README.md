@@ -1,4 +1,4 @@
-# Olá! Eu sou o Davi Miranda e este é meu repósitorio.
+# Olá! Eu sou o Davi Miranda e este é meu repositorio.
 ### Seja Bem vindo ✌🏽
 
 
